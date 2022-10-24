@@ -61,4 +61,4 @@ We install them by running the following lines:
 1. ```$conda install numpy anaconda-client pandas matplotlib scikit-learn```
 2. ```$conda install -c anaconda opencv```
 
-And that's it! If everything went smooth you should be able to run the calibration examples. **Note:** remember to activate the ucc-environment every time you want to run the code as the packages are only installed under this environment.
+And that's it! If everything went smooth you should be able to run the calibration examples. 

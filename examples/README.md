@@ -27,6 +27,7 @@ Input: Path to data directory which should contain:
 * **cam2.pkl** is the pickle-file containing the calibrated 'Camera' object for camera 2
 * **cam1_references.json** is the json file containing the reference corners of e.g. the aquarium seen from camera 1
 * **cam2_references.json** is the json file containing the reference corners of e.g. the aquarium seen from camera 2
+* **NOTE**: In the provided cam-reference files _cam1_ represent a camera placed above and looking down into an aquarium, whereas _cam2_ represent a camera placed in front of and looking into an aquarium. 
           
 Output: A CSV file containing the triangulated 3D positions
 

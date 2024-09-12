@@ -1,4 +1,4 @@
-/* world <-> camera correspondences for top view camera */
+/* world <-> camera correspondences for front view camera */
 [
     {
         /* upper left corner of aquarium (as seen from the camera) */
